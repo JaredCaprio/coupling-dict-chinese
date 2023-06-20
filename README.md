@@ -1,6 +1,6 @@
 # cedict
 
-This is a fork of coupling-dict-chinese-updated. The testing library mocha has been removed because it was causing vulnerabilities which could not be easily fixed by running npm audit fix.
+This is a fork of coupling-dict-chinese. The testing library mocha has been removed because it was causing vulnerabilities which could not be easily fixed by running npm audit fix.
 
 coupling-dict-chinese provides a convenient asynchronous JavaScript API for the
 popular [CC-CEDICT](http://cc-cedict.org/) Chinese-English dictionary. This is
