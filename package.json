@@ -6,9 +6,6 @@
   "directories": {
     "test": "test"
   },
-  "scripts": {
-    "test": "mocha"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/learncoupling/coupling-chinese-dict.git"
@@ -21,13 +18,10 @@
   ],
   "author": "John Heroy <johnheroy@gmail.com> (http://johnheroy.com/)",
   "license": "MIT",
-  "devDependencies": {
-    "mocha": "1.21.x"
-  },
   "dependencies": {
     "cn-chars": "0.1.x",
     "prettify-pinyin": "0.1.x",
-    "sequelize": "^2.0.0-rc1",
+    "sequelize": "^6.32.1",
     "sqlite3": "^4.0.0",
     "underscore": "^1.7.0"
   }
